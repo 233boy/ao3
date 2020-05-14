@@ -4,7 +4,7 @@ Archive of Our Own，AO3 备用网站，长期可用。
 
 ## 最新域名
 
-[pig123.xyz](https://pig123.xyz)
+[ao3cat.xyz](https://ao3cat.xyz)
 
 建议使用 Ctrl + D 收藏此页面，以及时查看最新域名！
 
@@ -55,3 +55,5 @@ Archive of Our Own，AO3 备用网站，长期可用。
 2020-3-17，被人 DDCC 了，还好有 JS 验证，问题不大
 
 2020-3-17，防火墙启动地区筛选，欢迎继续 DDCC ！
+
+2020-5-14，更新域名
